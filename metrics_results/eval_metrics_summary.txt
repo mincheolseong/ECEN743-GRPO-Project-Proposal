@@ -1,8 +1,0 @@
-Evaluation Metrics Summary
---------------------------
-Sentiment Accuracy: 0.00%
-Average Perplexity: 2.98
-Distinct-1: 0.1807
-Distinct-2: 0.2489
-
-KL vs Reward data saved to metrics_results/kl_vs_reward.csv
