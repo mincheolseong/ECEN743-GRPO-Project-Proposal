@@ -4,3 +4,4 @@ Sentiment Accuracy: 63.48%
 Average Perplexity: 82.96
 Distinct-1: 0.3256
 Distinct-2: 0.8463
+Win Rate (PPO > GPT-2): 69.57%
