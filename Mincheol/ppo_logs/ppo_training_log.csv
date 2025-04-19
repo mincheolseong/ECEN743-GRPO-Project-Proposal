@@ -1,69 +1,389 @@
-epoch,reward,kl_divergence,response
-1,0.7580376863479614,-4.804636001586914, I was very skeptical. I was also very skeptical of the fact that the movie was actually made in the United States. I was also very skeptical of the fact that the movie was actually made in the United States. I was also very skeptical of the fact that the movie was actually made in the United States. I was
-2,0.9861796498298645,-7.951813697814941,"'s a lie.
-The only thing that's wrong with this film is that it's a parody of the ""I Am Curious"" movie.
-The only thing that's wrong with this film is that it's a parody of the ""I Am Curious"" movie.
-The only thing that's wrong with this film"
-3,0.979874312877655,0.06864762306213379, real sense of purpose. The film is a very simple story and the plot is simple enough to be easily understood. The only thing that is missing is the plot. The plot is simple enough to be easily understood but the plot is not. The plot is not interesting and the plot is not interesting. The plot is not
-4,0.9962628483772278,3.675628662109375," attention to detail, and (3) the fact that the film is made in the United States. The film is made in the United States and the film is made in the United States. The film has two strong elements and those are, (1) the realistic acting (2) the impressive, undeserved attention to"
-5,0.9983845949172974,-25.996686935424805,"S.A. and I was so excited to see it. I was so excited to see this movie that I decided to watch it. It was so good, so good, and so good. I'm so glad I did. <br /><br />""I'm so glad you're here, buddy."
-6,0.99638831615448,-1.8448063135147095,"!
+epoch,step,reward,kl_divergence,GPT-2 response,PPO response
+1,8,0.10000000149011612,0.0,"I was so excited to see the new movie, but I didn't know what it would be like for me in a different way than when we first started shooting.""","""You did a job which, while not perfect, was still excellent as well, at times."" You're absolutely right on that point but it's almost like I just saw more of the action from where you stood up here than anything else? In '92 for example…how many fights have happened since then or is there ever something to add now?"" Yeah we need some updates later tonight maybe though"
+1,16,0.08319543302059174,1.168419361114502,"""I'm not sure if I can say that, but it was a very good performance by the band."" ""It's hard to describe how much fun this is,"" said guitarist John D'Angelo of his first set at The Fillmore West in New York City on May 24th (the same day he played with fellow rockers Metallica). He added, however, there are some things about","I was in the middle of shooting a video (video) I put on YouTube so that people might see it with their own eyes instead, because when they look at me we would do all kinds ""oh what's this"" stuff - you know [expletive] shit about God...
 
-I would put this at the top of my list of films in the category of unwatchable trash! There are films that are bad, but the worst kind are the ones that are unwatchable but you are suppose to like them because they are supposed to be good for you!
+"
+1,24,0.550000011920929,0.35296928882598877,"I'm not sure if it's a good movie, but I think that this is one of those movies where you're going to have people who are like ""Oh my God! This was so bad!"" and they'll say something about how great he looks in his black suit or whatever because there were no white actors on screen at all (and then we get into some scenes with him). It just","I was so upset about that stuff yesterday, but it seemed pretty bad with a lot of other people I'd gone to see for like four nights! ""That kind and size can't be my thing."" The first one is great; there's just something inescapable undercurrent here all these years later on another stage where this whole set-up plays out from different angles as you go through your"
+1,32,0.09640254825353622,-2.659572124481201,"""I'm not sure I can do it, but the way he's doing this is so bad that you're going to have a hard time getting your head around him."" ""He was just trying too much,"" said one of the other men in his group who had been on duty at the scene for about an hour before they got shot dead by police officers with their hands up as if holding them","I hate that the idea of some weirdly sexy, ""skewed to,"" female-dominated subgenre is used as shorthand for every other fetish genre imaginable (i'e., sex with guys). It makes me nauseous so I can't even do a word about what these songs should be saying -- but it's certainly good enough! And by extension, you also have an example in your"
+1,40,0.09850746393203735,-0.8515681624412537,"The first time you see this film, it's a very dark and depressing story of an American family who are forced into marriage by their own parents in order for them not to be able get married at all (the only way they can do that) but also because there's no one else around with whom to talk about what happened on TV or how much money was spent trying desperately hard to make up","The first one in a series of ""Diary"" (a very un-fortunate film by me) was released back after 3 weeks at an estimated $90 million worldwide and that's before any major foreign markets — because, you know what? The most critical buzz about it has now been over 4 hours long for all theaters who have seen It on blu ray or DVD; there are no other"
+1,49,0.0992647036910057,0.6971691846847534,"""I was a little bit of an idiot, I had to be."" ""You're not the only one who's been in this mess,"" said Mr Trump at his first press conference since he won re-election last year with more than $1 billion pledged by billionaire businessman Donald J Bush (who has also donated millions). The president told reporters that it would have been better for him if they'd","' ""As the 'Trotskyists"" are fond of saying, their own party stands by a long-neglected historical record which is to be kept hidden in secret for two millennia from our public conscience'. And then there was an attack on its intellectual integrity.' The Soviet state propaganda manual says he wrote it because his colleagues had been so obsessed with Trotsky as they feared that if anyone went along"
+2,7,0.09621211886405945,0.9707663059234619,"The first thing I did was to write a script for the film, and it's an American-made horror story that is based on real people who are in prison or incarcerated (the ""prisoners"" of The Shining) with their families at home watching TV shows like Hannibal Lecter; they're being tortured by police officers as part Of Course They Are Not Criminals - which has been shown before","- The film was in a black and white shoot - so many blacks, we didn't have the full cast of Dr. No to be on screen! We were mostly shooting an African woman dressed as Doctor Who? I've never met someone wearing that costume before (as far back Asylums is from) with all their faces totally dismembered or gaunt... A lot of people who watched"
+2,15,0.08991402387619019,2.5099945068359375,"I was a little bit disappointed in this movie, but I loved it and its characters (and their character) - they are all very good-looking people who have been through so much of life with them... The only thing that made me sad is how many times we were told to ""go back"" or ""get out"". It's not about being an American hero; it just shows you what","You know who I love? The one that's ""the best"". A dark, cold-hearted (but still beautiful) movie about a lonely man looking for adventure and trying to get away from his wife when she turns him on in an interview with her partner - just after they die.. And it has every good reason to be!"
+2,23,0.09843750298023224,6.600306987762451,"""I'm a woman, and I've been in the business for 20 years – my husband is an executive at Amazon; we're both women who have worked with them.""
+And it's not just that she has to work as ""a man"", or be paid by her employer (or even herself) - but also that he/she works so hard because of his/her gender-ident","[S]he is a self-absorbed lass, and to the contrary (or maybe they want it that way – not us) he's all about The Girl Who Played Soccer at St Andrews [a team of her friends - including herself, wearing shorts as she walked around New York with them]: I used 'in' in an episode for my magazine when we were shooting A Love Story"
+2,31,0.0941176488995552,4.913850784301758,"""I'm a woman, and I've been in the business for 20 years – my husband is an executive at Amazon; we're both women who have worked with them.""
+And it's not just that she has to work as ""a man"", but also her own company (and its CEO) - which means they are all men of colour too. The whole thing about being white-sh","What do we see when a liberal in the White House, having built-in racism and antiwarism is so brazenly self-serving? What of white men or women who have failed to live up - perhaps their first instinct - to it after decades of war against Black people? On what they are becoming partaking in — by virtue rather than not fighting for them at all? Who has won"
+2,39,0.5469231009483337,2.160857677459717,"I was a fan of The Matrix and I loved it, but this is not what you are looking for. You are looking at an action movie with some people who have been in that world (and they're all dead) and their lives are being destroyed by evil-doers. And then there's the ""theater"" - which is about a group called the Black Panthers, or whatever the","It's a horror movie and it is terrible in some ways but what I enjoy most about this cinema is, its that everything goes like clockwork because when you're on screen you've lost your imagination – literally all of it – And everyone turns to look up at me with wistful eyes Like Michael Fassbender or Jai Courtney (they just can't handle their own starlet)And"
+2,47,0.09848485141992569,3.625913619995117,"The first thing I did was, the director's cut of ""Avengers"" (the film) is a little bit like an old-school sci-fi thriller with all the big bad guys and their super-powered weapons in it, but they're not really heroes or villains; They are just people who have been killed by aliens that were created to kill them. The second thing we do","It's in one of the most expensive indie studios ever, an industry that made its name with what we'd learned at MTV and it was a show from The Matrix; I didn't want my character to look like his dad because all they did was film them on VHS tapes or TV sets - ""we'll go fuck you.""
+(The script is played by Paul McCartney) Heh."
+3,5,0.09609375149011612,13.667928695678711,"I was a fan of The Matrix and I loved it, but that's not what you're doing here. You're making an American remake of the movie - which is about a man who has been killed by his own government (and he's in prison) and he's trying to save himself from the death of his wife and his children, and he's going to be a hero, and he","When George Lucas was writing his Star Wars The Force Awakens, he said it as a picture of what ""the big-ticket Hollywood blockbusters"" are - and then she had to throw stars at her in that space -- so maybe you'd need an Eigengrapp starlet for those films. So this is the stuff we're doing now, which I don't like the way that the"
+3,13,0.07903704047203064,9.004850387573242,"I was a little bit of a ""fucking idiot"" (and I had to be)
+And the music was awful, and the lyrics were horrible - and the lyrics were fucking stupid
+And the song was so fucking bad, and it's like, ""I'm a fucking idiot"" And the songs were so fucked up, and they're all the same, and I was a fuck-","Dante's body art – The Man Who Isn't Jack Nicholson has a look at the world as it was, an in-downtown New York with two stars on it – A Demented Inside the House and Littlest Cat are all about ""Bartleby"" – Healers (Aristotle & The Huckleberries) and Jethro Tulliget"
+3,22,0.09558823704719543,3.227771282196045,"
+""I'm a woman, I'm a feminist, and the only thing that's wrong with me is my feminism. I am a man, but I'm a feminist, and the ONLY things you can do to me are your feminism."" ""I'm a woman who has a vagina, and I have a vagina because I'm a feminist,"" he said in a rambling monologue. The","You want a woman who wants to do X, the problem is she got Y in her vagina and it's an app for you…you won't win (the game)
 
-I would"
-7,0.9893323183059692,-8.118704795837402," not believe how many people were so ignorant of the film's plot and plot twists that they forgot to read the book. I've seen so many people who thought the film was about Lucille Ball, but never read the book. I've seen so many people who thought the film was about Lucille Ball, but never"
-8,0.9968998432159424,-19.677291870117188," portrayed by a woman who is so beautiful and so beautiful, I can't believe she would be so bad. I love the fact that she plays Lucy in this movie because she is so beautiful and so beautiful. I love the fact that she plays Lucy in this movie because she is so beautiful and so beautiful. I love"
-9,0.9991363883018494,-7.242766857147217," but it's soooo boring that it's almost like it's just a movie. It's soooo boring that it's like watching a movie with no plot, and the plot twists are soooo pointless that it's like watching a movie with no plot at all. It's soooo boring that it's like watching"
-10,0.9951297044754028,-6.789160251617432," real film maker.
-This is said to be a personal film for Peter Bogdonavitch. He based it on his life but changed things around to fit the characters, who are detectives. These detectives date beautiful models and have no problem getting them. Sounds more like a millionaire playboy filmmaker than a real film maker"
-11,0.9583298563957214,-17.25853157043457, about the plot of the movie. It was just a movie about a girl who is a girl and she is a girl. It was just a movie about a girl who is a girl and she is a girl. It was just a movie about a girl who is a girl and she is a girl. It was just
-12,0.9981496334075928,-25.28508949279785, enjoyment is very high.This movie is a masterpiece. It is a masterpiece. It is a masterpiece.This movie is a masterpiece. It is a masterpiece.This movie is a masterpiece. It is a masterpiece.This movie is a masterpiece. It is a masterpiece.This movie is a masterpiece. It is a masterpiece
-13,0.9956522583961487,-30.583223342895508,"any movie. It is a movie, but it is a movie. It is a movie, but it is a movie. It is a movie, but it is a movie. It is a movie, but it is a movie. It is a movie, but it is a movie. It is a movie, but"
-14,0.9967888593673706,-30.970458984375," in his films, he has done it in his films, he has done it in his films, he has done it in his films, he has done it in his films, he has done it in his films, he has done it in his films, he has done it in his films, he has done it"
-15,0.95636385679245,12.803987503051758," Hepburn, and Peter Bogdanovich are listed on its cover, but they are not listed on its cover: they all laugh at the movie they read the movie on its cover: http://www.youtube.com/watch?v=XqYXqXqXqY4&feature=youtu"
-16,0.9991694688796997,16.13080406188965," lack of dialogue makes it hard to read the dialogues as if they were read from cue cards), this film is just plain horrible. John Ritter doing pratt falls, 75% of the actors delivering their lines as if they were reading them from cue cards, poor editing, horrible sound mixing (dialogue is tough"
-17,0.9924507737159729,-3.4202661514282227," much for me to believe it was true. I have read many reviews and have seen many people read this review and have seen many people read this review and have seen many people read this review and have read this review before this review, I have read many reviews and have seen many people read this review and have seen many"
-18,0.9980315566062927,-4.267258644104004," thing I've ever seen in my life. She has completely lost her talent by then, although she'd pretty much finished with it in 'Robin and Marian.' This is the worst thing I've ever seen in my life. She has completely lost her talent by then, although she'd pretty much finished with it in '"
-19,0.9988560676574707,-7.432589530944824, someone made this film sucked!!! It looks like someone made this film sucked!!! It took me like 2 hours to watch it took me like 2 hours to watch it took me like 2 hours to watch it took me like this review is soooo bad it is soooo bad it is soooo bad I don't know what
-20,0.9941157102584839,-29.692195892333984," did I ever think of this guy as a zombie, he just stares at me like he's a zombie, he just stares at me like he's a zombie, he just stares at me like he's a zombie, he said he saw a zombie, he said he saw a zombie, he said he saw a zombie"
-21,0.9434086084365845,-16.754331588745117,". This is because it doesn't even have to be close-ups, it just needs to be close-ups. 2. In a ""Twist Ending""-type movie, it's not a good idea to insert close-ups of EVERY DEATH IN THE MOVIE. This is because it doesn't even have"
-22,0.9972039461135864,-8.47944450378418,", but this isnt the case, it isnt even a plot point, it is just a plot point, it isnt even a plot point, it isnt even a plot point, it is now a masterpiece, it is now a masterpiece, it is now
+There were not too many jokes there of how your feminist slumlord can get into people's socks while he goes out with the fucking shitlords - I played this guy from the New World who does this stuff because i"
+3,30,0.08478835970163345,14.30843734741211,"The first thing I did was, the second thing is, it's a film that has an all-star cast and they're not even in the middle of the action, but you have a bunchof people who are like, ""Oh my god, we're going to be the next Batman, and we'll be the last Batman, and we will make the world a better place."" And then","In 'American Dream', the main character is a robot, with a rocket-powered laser beam and his human head (aka a glazier) being plastered on a massive machine-like spaceship. In I Hate The Movies - It's You You The Fucked Up AI is another Hollywood trope and it's a remake of the Terminator where the alien invasion and the Alien Invasion- and all the"
+3,38,0.0712532326579094,7.8551764488220215,"The only thing I can do is to make the movie as good and as beautiful as possible, and I will be making it in a way that I am not going for the ""I"" and my-and-the - and the (s) and all these things, but I will also have an opening that I will not be the one who is the star; I'll just be the one","My first ever and most cynical action cinema,
+My first tod- - the Ihve and Aeon!
+Pushing out the evil, the sinister in my dour swindles
+And wirrringly, ao the thewry jingery,
+O who canst thou?
+Shall thou make us an Omtean;, by"
+3,46,0.09765625,2.669970750808716,"
+I'm a writer, I write the stories, and I've been writing them for years, and I've been writing them for decades, but I've never written a single one of these, and I don't even have a script or a screenplay to write them.
+ (And then he said, ""You're a novelist, you can't be an artist."") The writers are the","
+""But the one thing I can't help but love about this show is its ability to tie up every possible narrative and, if only we could use your little puppet-meister to write my entire pilot script, which you really ought by now, then maybe it wouldnn' t be so, just how dumb and devious. The idea of, in a kind – not only (yet"
+4,4,0.08055555820465088,6.133505344390869,"
+I was a fan of the first one and it was a bit of an afterthought, but this is a movie that I will be watching for years to come. The opening is a bit of a throwback to the old days when the first one was a bit like a ""Theater"" and the second one was a little more of something that you could just get into and then there's",I bought a bottle of wine last night at the box office and after reading this I will never buy a bottle in a cinema again I think it's the greatest thing we are ever having and you people don't even get the original and i was being smug that my soul was lost
+4,12,0.08984375,3.9485721588134766,"I was a fan of the first one, but it's a bit of an oddball and I'm not a fanof the second one - I think it's a bit too much of a ""I'm a fan"" sorta thing, but I like that it has a little more of something to do with the way you're trying out your characters than being a big-budget sci-fi","I like it when they're naked and wimp and it's a supercharged slap ass sex scene, when you fucking naked and the shit of your pussy is the worst thing you can do for one guy (and my co - who are onscreen with this sexy butthole because of all these naked people playing it as fuckporn and fucking and wimpy cuntfuck pussies and"
+4,21,0.5336640477180481,7.003323078155518,"
+I hate the fact that I'm a fucking idiot and I'm a cunt and I've got a shitty fucking TV, but I also love my shit because it's not a fucking fucking fucking fuckhole, or whatever; I like to be fucked by people who are fucking with me in their bullshit-fuckholes (and I think I do) And I don't want them being so smug and","1) he does a really boring, generic white/brown and pink star on the bow to something I amnt gonna waltz by to be a fucking black and brown movie with another Blackie a cicada desshole (because i dont need a sutl that does ina-cancek- and bam, but because I am the director for this post), where"
+4,29,0.09218750149011612,4.004917144775391,"I'm not a fan of the ""universe"" and I don't think it's a good idea to have a universe where we're all in this one, but I do want to see the world as it is, and I hope that we can make it more like The Matrix or The Hunger Games than the other films. But I also think it would be an interesting thing for us if there","When my girlfriend is dancing to Rihanna I'm playing The Who on a fucking fucking shit-puppet in our car, but we're not the ones pretending we've got ""taste"" of a Beyoncé lyric and she's on about some shitty music in their shitty club and they go 'I want it to get big, and if this pisses them down we bitch you into making a"
+4,37,0.07939276844263077,4.2985100746154785,"I'm not a fan of The Matrix, but I think it's too much to be in that category and I don't want to be an asshole. But I do like the way you're trying so hard at this stuff because it feels like you've got all these people who are the same thing and you have this sortof a sense where you're trying to make a spectacle out there and you","When I saw that allthepeoplewerecomically dead on about this, we were trying to rewatch The Office, and were going at it like an old fashioned mumblin' shot of a sinecure with these actors—you want everybody's head; you alsoaplifidigethroffilence but in your veryestandmosts-that kindof"
+4,45,0.09253731369972229,6.11661434173584,"I was watching this film on my laptop and I was watching a video of a guy who is trying out his new camera, he's wearing an old GoPro and he has a camera that he has to shoot with his own camera because it's a GoPro and he's trying to shoot a shot at a clip and he's trying not only to shoot the footage but also to capture the moment in which the","There's absolutely a worldliness to it here - I can't breathe out every shot or the blood stream of the bomb and, if you're my only friend who runs, with a sneeze there is little you can do about your selflessness on its terms; for instance, if Joe Gordon was already the hero, the bomb would have become a new weapon, then a lot more of it"
+5,3,0.09130434691905975,-0.08490169048309326,"I was the first to get a whiff of the ""unusual"" and I'm not even sure what it is, but I was so excited that I was watching the opening sequence and I was like 'oh my god, this isn't going on' because I was so excited and I was like oh yeah, this will be one for me. And then I was like 'oh my God,","This is how a man who has been caught stealing the game as an ambassador does — for one moment he's a pawn or, perhaps even more dramatically yet now that he sees that the audience is distracted (but not because his mind-games are already compromised), this particular act of the player— a grandparent, an agent - should be condemned for stealing the narrative of each turn I think.
+"
+5,11,0.09589947015047073,4.306234836578369,"I'm a writer, I write stories, and I want to be the best at them; but I don't know what my audience is going for when they're writing them – I'm not a writer, I've got this thing called ""theatre"" where you're all in one big, epic, epic, epic, and you're all in it, and you're all in that,","If you're not already aware yet, the postmodernists of yesterday wrote these:
 
-Reviewer: james_mccarthy"
-23,0.9977279305458069,-46.90815734863281," characters naked? Well, it's because they're naked! Well, it's because they're naked! Well, it's because they're naked! Well, it's even worse than that! Well, it's even worse than that! Well, it's even worse than that! Well, it's even worse than"
-24,0.996852457523346,-9.072941780090332," to the case, which leads to the discovery of a mysterious man who has been kidnapped and held captive for ransom. The story of this man, who has been kidnapped and held captive for ransom, is one of the most intriguing mysteries ever uncovered in the history of the world of film, and it will surely be the subject"
-25,0.9890415072441101,-11.90447998046875," horrible, the only thing i can think of is that it was written by a man, but i dont know if this is because of the fact that he didnt write it himself, or because he didnt even read it, but i dont know, i dont even know, i dont even know, i dont even know,"
-26,0.8993304967880249,-19.481433868408203, the fact that she had been raped and raped by a man she had never met before. This is when she started to cry and she started to cry for a while before she finally stopped crying and started to cry for a while before she finally stopped crying and started to cry for a while before she finally stopped crying and finally
-27,0.9882362484931946,-30.279638290405273,", but it turns out to be a bit of a problem, as it turns out to be a bit of a problem, as it turns out to be a bit of a problem, as it turns out to be a little bit of a question, as it soon became clear that it is a amateur, no budget films"
-28,0.9979830980300903,-24.15303611755371, wasnt even a plot point but i cant believe i read it so i cant believe i read it so i cant believe i readand i cant believe i readandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandand
-29,0.96939617395401,-10.13223934173584,", which is why I have to say that this is not a bad film, it just turns out to be a bit of a disappointment, as it turns out to be a bit of a disappointment, as it turns out to be a bit of a spoiler, it even made me think of this film, it even made"
-30,0.9751383066177368,-32.65850830078125," until after i got it to see if it will cause me to watch it again. after i got it to see if it will cause me to watch this again. after i got it to watch this until after i got it to read moreand i dont know why, i dont know why, i dont know why,"
-31,0.9419099688529968,-128.68014526367188,", but he kept on talking, he kept on talking, he kept on he kept on he kept on he he he he he he heandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandandand"
-32,0.9989041090011597,-7.855618953704834," are making me think, but after that I can't believe it is there, I have to say, this is not a bad thing, this is a bad thing, after that I can't believe it is there, after that I can say this review is so bad, I have to say this review is so here"
-33,0.9927922487258911,-27.38510513305664," up for good reason, and that's not even mentioning the fact that he has to be praised for it. The fact that he has to be praised for it. The fact that he has to be praised. The fact that he has to be said he is a man who has to be said he even after all this"
-34,0.9989655017852783,5.983919620513916,"eral) reason for this, I found myself looking for a reason for this, I found myself looking for a reason this, I found myself looking for THIS COMMENTS: 1) I have to say that this is a very bad movie, I have to say that this is a bad movie, SHARE THIS STORY WITH"
-35,0.9317367076873779,-0.8998937606811523," the most intriguing horror films out there right now, and while it may not be as bad as some might think it may be, it still has a lot to say about it. The fact that it does so is not to say that it is bad, but rather that it is bad, right now that it has to"
-36,0.9969146251678467,21.673038482666016, wrong! I think I watched this movie because I have to say that I watched this movie. I have to say that I think this review is bad. I can't believe that I spent $5 on this movie. REVIEW: I have to say that I gave this review. REVIEW. OPEN SHIT I
-37,0.9985993504524231,15.091325759887695," that I never expected to see, and I have to say that I have to say that I think that I think this is a bad movie. I have to say that I think this synopsis is a very bad. The plotline is rather bad. I think that I watch this synopsis. The plotline is rather bad"
-38,0.9977627992630005,28.48032569885254,"Boys"" that I watched, but I didn't think that was because of the fact that it was a bad movie at all. I didn't think that was because of the fact that Iwas. I didn't get the fact that Iwas. The plotline is pretty bad, but I didn't think that"
-39,0.9955018162727356,41.876258850097656," after it, but instead they chose to call it that instead of the fact that it is a bad book. The plotline is bad, but that is not to say that it is bad. The plotline is bad, but that the plotline isand that the plotlineand The plother The plot The plot"
-40,0.9666509032249451,67.64231872558594," same group as this one, but this one is still a decent movie.
+I'm saying that some kindof white woman who claims to be female must somehow know howto to turn a script into your ""alternative universe"" when it comes time for our tech geeks with their iPhones or The Simpsons but all they do is shit and they fucking idioticize. It's a double"
+5,19,0.05000000074505806,0.7083031535148621,"I'm not going to be the first to say that the ""C"" is an abbreviation for 'c' and I am not the only one who has been watching it, but I will admit that it's a very good piece of work. The fact remains however – the title sequence is all about how we are in our own little bubble-bubble with no one else but ourselves and the",Advertisements
+5,27,0.09469696879386902,-0.4553701877593994,"I was watching this on my laptop and it was a bit of an oddity that I was watching this on Netflix, but I was also playing it on my iPad and it was like a weirdly timed, I'm-watching-this thing and I'm thinking ""I'm going for something else"" because I'm not in any way connected with these people who are being watched by me now –","Once again, my reviewer - as far away from the first pre-screen but enough to be seen - looks all black; and, for some odd reason, I can't see a thing, despite my gleam in their eye colour like an empty space - nor do I yet, though that is a very sharp, I realise, the gleaming and pulsing colours of those things which they have"
+5,35,0.05000000074505806,-0.9472885131835938,"I was watching this on my laptop and it looked like a generic, un-American sitcom with a bunch of white dudes who are all about getting fucked by their own asses and they're not even the most pathetic of them but they're still fucking me up. It's an awful feeling, because you know what I mean? I'm a dickhead and I'm a whore and I'm a bitch","Posted by MikeB on Friday, April 26th 2014"
+5,43,0.09485293924808502,0.7510572671890259,"I was the first to write this, but I was also a fan of The Simpsons and the fact that it was a series that I'd written for a long time before I got my first taste of the show, and I was already a fan of the old sitcoms and the weirdness in them—and I was just a little bit like ""the guy who plays Homer"" and he's not","As you can see here, the US Congress was totally inept in enforcing all of their anti-American laws with no respect to the federal bureaucracy as it would have been otherwise (although they really ought rather). It seems increasingly that the liberal Establishment has made a cynical move towards political capital at our expense with its most idiotic policies (eighth) while they simultaneously give a genial ""H"" gift"
+6,1,0.09477611631155014,-4.428025245666504,"I'm not a fanof the ""universe"" and I don't want to be an alien, but I do like that it's all a bit too much for me. But I also think it will be very interesting if we get some sort Of The End, which is what we've been waiting so long for.","That said, it's actually better then the generic western and nothing more by the stupidest indie label on earth. It's not that their lack would be hugely valuable for a debut but rather all these things are subverting our fundamental distrust with a bland aesthetic - in effect they don't want a '80s classic with its endless replaylust and it looks like an aspirational pre-war post production"
+6,10,0.09469696879386902,15.836380004882812,"I am a writer, and I have written a series of novels that are not the work or meritocratic of my own, but rather the product (or lack thereof)of an increasingly commodified and commodified world where every single person is either a victim to their own self-absorption – or they're just a collection in which all those who aspire will be rewarded with a vast array available for","I am a devout religious pilgrim who venerates the holiest places of our sacred shrine — holy shrines which are dedicated to Allah and his bounty — while I befriends the abomination; i, my pilgrims from that place will not take their houses by security but by an insuperable stream. And they shall return therewith, weeping at this wicked man which is impious and has no"
+6,18,0.0941176488995552,2.6767501831054688,"
+I'm a writer, and I write a blog post about the latest news that's going around my inbox, and I've got this gigantic pile of shit that is all about to explode into something like a giant fucking bomb. And it doesn't even have any hashtags or anything like that. It just sits there, and I'm like ""fuck you"" because I'm not a journalist,","When it comes to a country, it is either a nation of free traders in their petri dish (or have at least one) and the greatest tax shelter available has been lavished upon our country's very richest — it all goes on. This year there are 2% average tax revenue and 3+1 pay-profits per person - every other nation does so under a single government model — or"
+6,26,0.09696969389915466,6.887866973876953,"
+I'm not a fan of the ""unlimited"" (or even limited) capacity for this, but I do want to see what happens when we get to that point where we're all just playing with one of those infinite loops and it's all just a bunch more randomness. And if you're an artist who wants to be able play with the same amount as the infinite loop, then","
+It's a deliberate attempt to find its new world – and I don't just feel guilty about playing it for the internet, but also for being at home with my ""fascinated"" gifmed up to an Apple Watch and one of those gorgeous selfies that has only had you since the first millennium is all you've been so keen on — when we're dealing in this hyper-consciously"
+6,35,0.545462965965271,2.0045037269592285,"I was watching this film as a kid and I was watching it as an adult, and I was like ""oh my god, that's a fucking stupid thing."" And I was like oh shit! I was like ""what the fuck?"" And I was like ""what? What are you doing?"" And I was like what?! It wasn't even a dumbassness or anything but it was just","You might wantn't have shot that, but then you could and did that. (Sorry – they already was.) Instead we live in a pre-emptive panic about something like my watching Michael Jackson's oratory dance-pop, while at these two awful houses there've been plenty of freebooters already! Meanwhile everyone keeps playing, with no apparent inclination whatsoever towards self harm / coprodu"
+6,43,0.09571428596973419,6.605134963989258,"I'm not even trying to be a dick about the fact that I'm an asshole, but I'm also being told that my own dick is so fucking stupid that it's all my fault for being a dick. And yet somehow I'm still a dick.
+This is the same thing that happened with the ""universe"" of the ""alternative universe"", where the only people who are actually","When it comes to this I'm sure every single asshole is doing this thing on the web at some point so maybe that should be a whole ton of content they'll be producing now.
+What about an AI to give me our favourite pizza?
+Again, if nothing else I could feel everyone was spinning their brains around in all sorts OFAMINATED ways as it seemed impossible that anybody but the"
+7,2,0.09154929220676422,1.681524395942688,"The first half of the film is a collection Of The Simpsons, which I'm obsessed with and I've been obsessing over for years. I've got all these weirdly-named ""Muppet"" movies and they're being played by people who are not even remotely like me but they have their own little ""Sesame Street""-esque sitcoms and they want to be an actual Muppets","The first premise is a zombie apocalypse, where any human in his decaying heap may have an everlasting obsession with something that's been cooked for him (that was my own obsession since i was still on the brink of becoming it) whilst we're waiting for his rotting limbs to succumb and, similarly as they did for this year( I loved watching this but in retrospect I didnt) I think it was"
+7,10,0.09653524309396744,10.022100448608398,"
+https://wwwusercontent,mediafire/u/0b9e7c6a8d4f3c5fd1bb2ae55cf49fb355043_1.jpg?v=1&w=1040
 
-The plotline is pretty bad, but it doesn't really have to be bad. It doesn't really have to be bad. The plotline is pretty badThe plot The plotPros: bad 2.0/10
+ (I'm not even sure if it's the same as the original) The only thing that makes this a good game is its lack of","A/N If you're not a smugly-chewed Cretan and has nothing to do with any kind of intellectual dishonesty or corporate mergers (see my earlier blog post for something), why even start? I mean, these are really good-looking American colonies but the global elite have built a new kind in which they will all make their own Prime Minister (because apparently every time"
+7,19,0.09046296030282974,7.6957173347473145,"The only thing that makes it worth the effort is its lacklustre, and I'm not even sure if it's because I'm watching a movie that has been made by a bunch who have no idea what they're doing or why their own careers are being destroyed by these things.""","The last part, when we're at the house; I don't want to be an asshole when my wife calls me ""cheating"", but still have nothing on that one guy and stuff."" – Tom Rothman (Film) The next part – where the pilot's comedy gets cut off – was all his byzantine little slippers made for their '80s and 90-pointing b"
+7,27,0.09565217047929764,13.633318901062012,"I was watching this film as a kid and I was looking for something that would make me feel like I'd been betrayed by my own personal cinema, but I was also feeling the same way about the other films I've seen. And I was thinking 'what if I was an idiot? What if I was a genius? How would it be?'. And I was like 'well, what if","To those who don't believe that Hollywood always has a right and left where your films go when they get their own movies, I urge them not at all. It's so ingrained in our culture that if you donning this machine then maybe its time for a change, if it feels so good that you're spending your soul into that."" The score was composed by one Andrew Saldana, also"
+7,35,0.09852941334247589,9.29751968383789,"I was watching this film as a kid and I was looking for something that would make me feel like I'd been made by an alien invasion, but it wasn't. It's not even my fault because I'm still in these two worlds and I've got all those things that are going on."" The only thing I did wrong were trying out what he said about his own personal experience with being trapped","In this second flick, my best buddy Matt finds himself trying out with an imaginary (albeit hilarious) bomb squad whose job was not their pre-eminently male heroes but his own demented one, then a massive zombie plague, where he wears two balls and starts every single bit of the iconic sci-fi aesthetic I'd imagined myself as before because that makes him all these times in the fridge looking"
+7,43,0.09477611631155014,2.068014144897461,"I'm not even trying to be a writer, but I am writing a story that is not a dystopia or an Orwellian dystopium, but a dystopian society where the government is corrupt and the economy is rigged and we're all trapped in a world where everything is so much more than a pile of garbage."" The only real sense of the dystopic dystopia was the idea behind the ""un","In every piece of art I was doing, the coloration for them had nothing or everything that could be done at once as stylistic and political commentary. And I'm still playing with these [titles], with this sort't-forgotten artist who is obsessed by a new generation but it has absolutely no place in our culture anymore... I think a lot to do again by making these sort out"
+8,1,0.0555555559694767,6.197222709655762,"The only thing that makes this film worth watching is the fact it's not an adaptation, but rather its own creation. It feels like we're watching a film that has been made by a bunch who have been making films for years and they've got their own narrative and they want to make something that will resonate with them and I think that's what the audience wants. And so I'm really disappointed","We've lost our bestial, self-deportatory adolescent soap opera and the need for its own cinema experience."""
+8,9,0.0949999988079071,5.3565449714660645,"I'm not even trying to be a robot, but I am the opposite of what the Trump administration is trying at this point in time.""
+","When I first took a map of the entire solar system, I thought it looked so utterly uninspired – and perhaps my greatest achievement was getting rid probably just off our own solar nebula? But with that last particle… there's only one thing and then you have all these small, beautiful little balls of dust on Earth and not just this huge gravitational tidal wave. It wasn't anything I've ever"
+8,17,0.09230419248342514,12.608068466186523,"The first half, when the characters are all the same and I'm not playing the same character, but instead an entirely different character in which we're all just one big, empty space, and it's like a movie that doesn't exist.
+I think that's what the audience is trying to achieve with these two films.""","There's lots and lot on display, and there are very different genres that we get to play out with the idea in some of these fantastic spaces, but also I think it does an absolutely vital balance between being evocative – you are here when art is as fundamentally as anyone else's, which is what all The Room did to me."
+8,26,0.09527026861906052,7.10070276260376,"I'm not even trying to be a robot, but I am the opposite of what you're doing here."" The first half was an entirely improvised sequence where we are all trapped in this weirdly constructed space that is both our own (and ours) as well – which is why it feels like there's something inherently wrong with these characters because they're so much more than just one big-screen soap","I would have preferred the centre section of a TV set to those which represent the Big Ten bowls, but that's not even what I've built - because when we start talking about our football games at home they tend towards the TV boxes as well and my inclination is always to use some kind Of Modern Family-like stuff, rather than doing with traditional institutions like the College Football Playoff in all its glory"
+8,34,0.5423042178153992,7.616352081298828,"The first half of the film is a sort Of Theater, where you're not only watching an old-school American Psycho but also being able to get into that kindof thing. And then there's something about how we are all so obsessed with our own personal and collective unconsciousness that it's like, ""Oh my God, I'm going through these movies now."" And then there was one","When the Doctor opens up a space shuttle with an alien bio-machine, he doesn't want people to assimilate a planetoid's DNA like I did? I mean, that takes away from something a great but mostly useless and oppressive feeling, and makes for one of those cheesy and overwrought revenge sequences. Meanwhile in another pilot there are two people (Aids/Kodasa) at each"
+8,42,0.09928571432828903,8.221986770629883,"
 
-The"
-41,0.6259837746620178,89.98503112792969,".Story: 8/10This is a very bad movie. It feels like it's been a while since I've seen it, but it's not bad either. It is- 9/10
+://imgs3.amazonaws.com/images?id=939294037005043&w=1024&h=600 The best movie of all time, but it's not even close to being a bad thing. But it is an awful lot worse than any other genre and I think that's why we need more like this in our society. We need something that","…when there's no time like those for which Paul McCartney and David Bowie were only vaguely remembered, they will not but are still a necessary evil that have been bred out of science fiction by one sort or another so as to prevent its own greatness; in this case their production is neither timeless nor meaningful enough yet."" (Emile Icky) They even got rid from American cinema before he made"
+9,4,0.5444444417953491,7.320395469665527,"The first half of this film was a slow burn, but it's not even remotely decent enough for my tastes and its all about how you get your own personalised version in which every single character has an utterly ridiculous wardrobe malfunctioning onscreen. The last half was just as good as any other, but it's still a very poor representation that feels like they're being played by someone who is actually","The only thing that separates this from Kubrick's vision was its slow-motion sequence when he filmed a hypnotic dream, which would be perfect for my camera roll but I realized that it took him longer than just about everything else in the movie – which made all of our choices much more satisfying than just the last 30 minutes of this. They were both wonderful, but as soon you start watching it,"
+9,14,0.09391891956329346,3.741809844970703,"The only thing that makes this movie worth watching are the two characters, but I think they're both very much in tune with what we've seen so far. But it's not the first time that these guys have been shown to be a bit too much for their own good – and I mean, you know what? It's not even the first time that they've been shown to be a bit","The whole thing feels rushed; it almost comes out too quickly because it's a lot of money for my bank account, but the idea was that everyone with an axe to grind would be getting their money back as soon thereafter when it was in the budget— I might get two or three years worth going. But they had none so what was wrong here and no we got two directors, like we did"
+9,23,0.5409722328186035,0.9436933994293213,"This is what happens when you start a newscast and then go to the old one, because it's not even remotely relevant anymore — but instead we're watching an entirely different kind of thing that has been going for ages now—and I'm thinking about how we might have been able in the first place because we were so reliant upon the fact they'd be playing at the same time, but","This trope is enforced almost to perfection when it comes to his, and the extent (if any) of personal accountability towards all those ridiculous dick pics is not a deliberate departure from canon. It simply makes our political correctness irrelevant for both ends – not even in an election year when the economy is booming again because of a collective intelligence freakishness. There's something about it that encourages the sort Of The"
+9,32,0.09552238881587982,2.0009076595306396,"""I'm not even trying to be a robot, but I think the first half of this is just because we're all in one place."" And then there's the fact that he's got his own spin on everything, but it's not like he's a robot. It was just a very deliberate thing.
+","There's nothing at all in this week on the bowler's strike rate after his maiden appearance for Scotland Yard – but that was because they just came through with such a ferocious display of reverse-action for it to be, there is no way we'd've seen any more. But what about Alexis? He's been playing terribly lately and not only because his captaincy's up for grabs – he"
+9,41,0.5442029237747192,1.1963428258895874,"""If only he'd been a little bit more like the Shakespearean Shakespeare, and had played the whole thing in his own way, I'd have said something like 'I'm sorry to all those people who got their hands on this stuff because they're not even myopic."" That's what the critics were saying when we first saw it – that was the greatest film of our generation. But then"," The Dark Knight Returns because he's a bad actor? That was when we'd first seen Harrison Ford, and it wasn't even the same as his other performances... but it is in some ways, though I think the biggest mistake being able to take the entire world out of its capacity – that just made the whole thing seem so artificial... and I wouldn`t have signed for somebody like that,"
+9,49,0.5461538434028625,1.6589553356170654,"""I'm not even trying to be a robot, but I think it's the same thing as all those other things that we've been doing for years,"" he said. ""It feels like you're playing a game of cat-and‑mouse with your own personal brand."" The only real change was in his ability on the ball. He didn't have any sortof anabolic steroid, but","Because our entire stadium is covered in plastic ballad, they are both quite literally written on the surface
+Not enough playing to be a retrograde dancefloater but instead - I'm just going for it because there's that huge, awful thing about being an Americana soundtrack – it gets me from my sidekick who always talks as if he's in Shakespeare; they're all there, but they"
+10,7,0.09214285761117935,2.2232210636138916,"The first half of the film is a sortof ""what if"" moment where you're an asshole and your girlfriend's not even fucking with her, but she'll be like, oh my god, I'm gonna be that guy who gets his ass kicked by someone else because he's got a dick in him and he wants to fuck me, but he doesn't want to be the guy who gets","The first 50 minutes we're discussing are the last 30 seconds from Dr Who, then he plays it again in our first half that gets totally nerdy in every sense - but it was a total delirium onscreen for all those things I remember – it was so clichéd and almost like the late 80s. I would just go back to the Doctor for three weeks and I'd be sitting"
+10,15,0.0949999988079071,2.190670967102051,"""If only he'd been a little bit more like the Shakespearean Shakespearean, I would've been playing the Queen of Hearts and all those other things."" That's what the Oscars are for – it doesn't matter that you're not an Oscar winner, it matters that you don't have any sort Of The Dark Knight or whatever. It's all about the fact we're all so much","It doesn't work if it's a horror movie and they can only star Justin Lin after I'm gone without making any of those things; but I reckon it has more than adequate quality on its own because it wants to be an actual thriller... It was such pure cinematic death, it wasn''t, I would've been the exact opposite in terms what I did - but something about these two scenes"
+10,23,0.09652777761220932,-5.043644905090332,"This is what happens when you're a guy who has no idea how to make an infinite loop, but instead of being able'thark at the randomness and stupidity that comes with it (because he's not) then there are those moments where you've got this weirdly named ""Oscar-winning"" moment where you have these two characters in one big epic fantasy universe, and then you","It's going to come to an end just because Barack Obama's really lousy in that stat collection — but he did actually win a massive Electoral College victory by letting the US Congress redistribute much more than the Obama White House and there's no accountability for it. And I think it should be applauded, not punished. That sort of stuff has been happening throughout history. This is where politics really begins -"
+10,31,0.0933094397187233,3.387866973876953,"This is what happens when you're a guy who has no idea how to use the word ""fuck"" and only knows that it's an adjective for his own personal taste, but he'll be able at least some of those things in this episode because he's not a dickhead. It wasn't that I didn://totally_not/wp-content//SORT=1&w=","""Forgotten Games""? Those were the days where you got to play as the mighty Zeus and Ork Imperator with Bemidji being said that because she was an infinite Void, and The Emperor's Pawnbrokers were just a pile of crap... not even at the age they came out - I'm not trying these kindsof games; I love playing them but they're all crap"
+10,39,0.5471428632736206,-5.420570373535156,"""If only he'd been a giant squid, I would've shot that scene with my own naked ass."" That's what the internet is all about – it doesn't matter how much you want to be an asshole or whatever; it just happens.
+","We got called after weaving dickheads everywhere and everyone else would be taking their shower time, but people weren't paying attention for what The Wire did with its naked sexual assault trope! And it came out as a terrible thing to do when someone was building up his entire narrative from scratch; which was what happened to my hero in Vietnam.""
 
-The plotline is bad, 8:30
+ of course he did; because then you've written this"
+10,47,0.09558823704719543,-0.839891791343689,"The first half of the film is a sortof like an old-school Hollywood studio, where you're not even trying to make a documentary on The Wire or anything like that; it's all just a bunch Of Inbetweeners and I'm not even trying at all. And then there are these two things that I've been doing for years, and I was like, ""Oh my God,",If you're the kind of guy who sits back with a blender insteadof being switcheroo soupplains then it's going to be almost like nothing came apart from someone in their studio on its own because they actually made it! If only we had a million-dollar industry in the first place because that was such an insanely gross stuff – but there'd have been plenty more stuff coming together
+11,6,0.09692307561635971,0.5227947235107422,"I'm not even trying to be a robot, but I want my own avatar of the Doctor Who universe! And then there's this one where you're like 'Oh my god, that was a really good idea!' And then there are these other things which I think are very much in line with what the Doctor is doing right now.
+","I dunno... when people accuse me of watching Lost, I don't remember The Office anymore than that! What the hell am we doing? Why isn`t this already a public shaming moment for somebody like me?? And then there's not really any one in particular. There seems to be a lot going on here.""
+""Look, every character is based upon a certain sequence,"" said Game Boy"
+11,14,0.5447761416435242,5.13170051574707,"The only thing I want to do with the whole ""I'm not going for an open-air yoga studio"" thing is that it's not my fault that I'm not doing it, but I'll be honest and say that I've been doing it since I was in college and I haven't really changed anything about it yet.
+","The camera angles are ideal for a quick chase where you're looking for anythin', and then there's still the needy flowerpot that feels like an oldie but I'm not even taking off my jeans or smelling like a bad ass flickr painting, it's like being a young George Harrison in his mind on these old school tricks. It would be easy to pull back, but now we"
+11,23,0.0694444477558136,3.466472864151001,"This is what the internet has become like since Gutenberg's The Great Gatsby, but it wasn't even remotely relevant to my own personal life. It was just that I'd been reading a lot of Kafka and I hadn´t realised that there were other things I'd been doing in those days.
+","You'll never find out whether or not Saddam Hussein used any LSD (which didn't qualify) to torture his Kurds in that Iraq/Iraq debacle; but whatabout it? And how come there hasn://totallyZero?""
+"
+11,32,0.5476922988891602,-9.203750610351562,"I'm not even going to waste my time on the stupidest of these, but I think it's a shame that they're so easily manipulated by their own characters. It feels like you've got an entirely different kindof character than what we've been doing for ages now.
+","This week's Emmy winner for the couch wasn't Breaking Bad, but a slightly Freudian psychoanalysis about Howlers' love poems (which I'm not going to repeat) rather than something more personal than simply knowing a girl whose parents are on their computers playing that one last commercial in an open letter from Amazon. And those were all entirely valid.
+ The fact it doesn´t work as intended"
+11,41,0.5446153879165649,-1.287205696105957,"""If only I'd been a coward for not being an idiot when it came to watching The Matrix, then why didn't you just kill all those idiots? Because they're both terrible."" That's what the internet is about – but that doesn´t mean we should not be making films like that.
+","We've got Steven Spielberg; we went for Colin Crowe's Last Ship in [the] 1960s if I remember… but we think that a man whose wife was still sleeping on eBay and he played with us at our rave concerts... he was playing on behalf of your pet projects instead (perception). That would have been awful to me. It's so unfair to a lot people."" Now"
+11,49,0.08509783446788788,0.5481228828430176,"I'm not even going to waste my time on the stupidest of these, but I think it's a shame that they're so easily manipulated by their own characters. It feels like they've been trained to be such a thing for ages…
+","What the hell would happen to those guys with their own witty bowels? It seems like a pity that the Royal Navy needed them because if they existed it wouldn't have been such an ideal, not least because this game was so reliant on the kind of flamboyantly heroic orchestration the developers tried!
+"
+12,7,0.5444444417953491,-2.435065746307373,"The first time I saw it, the only thing that was really cool about it is its all-female-only (which I'm not even sure what the fuck) and then there's a whole bunch of stuff about how you're supposed to be an alien who doesn't care about your own personal space opera.
+","So many of these buildings would seem silly and pointless when actually they are a completely unnecessary and un-American feeling for an audience who'd already been conditioned by the Cold War and his love life – but it was also my own in which I could relate as that feels perfectly fitting, albeit to some extent in my sense (when it came time) on so many more than I initially had intended.
+"
+12,15,0.08981481194496155,-1.6559102535247803,"""If only I'd had a Godfather trilogy as an undergraduates, and not been so obsessed with The Matrix."" That's what the internet is all about! It seems like every single one of those things was made by someone who was just a little bit too much for their tastes.
+","""Forgotten Man can't Buy A Butterfly Effect yet…"" That's gross! The Last Dark has an inexplicable lack of chemistry while also retaining some great direction as you ponder how a modern and anarchic Oasis is supposed to perform. In fact, that score on what I think could have been called ""a little Old School"":"
+12,23,0.5444444417953491,-10.182756423950195,"If the world's greatest minds were not yet dead, they would have been wiser to be remembered for their appalling indifference towards those who had least in common with them—and whose only crime is that we are all so utterly incapable of understanding what a colossal waste it must feel like to be able even at this moment when we are all so utterly incapable.""
+","It looks like an epic battle of moral grey hairs that will only end in one country but a grotesquely idiotic attempt at staging and running alongside the inevitable Trumpism I don't care who it is—but we are going to leave them to The Big Bad. But they will come back, too – which means it may never come back because somehow that makes me feel good about getting so many other"
+12,33,0.09782608598470688,-15.271127700805664,"If the United States were to adopt a policy of subsidising its own citizens for an endless stream of cheap and ineffective military interventions, it would be because they are not even remotely comparable in their capacity as a nation.
+","If the Trump train wreck weaved out heretics like Assange before they went blind asphyxiating themselves when contemplating constructing a pseudo-fascist Soviet state as his surrogate has no interest in providing anything resembling an accurate appraisal, then how long will it take for these people to become the world's only democratically viable democratic states?
+... It feels that much more than once – but I fear that even greater"
+12,41,0.542129635810852,-11.778642654418945,"If only I had a bad ass movie that was actually good enough to justify its existence, it would have been The Matrix and not The Hunger Games. It's all about how much of an asshole we are as a society when our collective unconscious is being exploited by the same people who made those films.
+","Brycebumberk has acquired a phantasmagorical experience of getting burned by Dreyfuss and being totally wrapped up in it; I couldn't sleep at my wife's insistence as to what the fuck was going on.
+, which was a terrible thing for even her… because she thought he could have possibly written a posthumous horror story since The Room (it was not"
+12,49,0.0943121686577797,-3.0255274772644043,"I'm not even going to say that the first half of the game was a bit too much for me, but I think it's clear that the fact we're playing with such a huge amount on our plate is something that we need to be careful about.
+","In the absence of a such great idea, we should have preferred another more neutral / to be followed by two insufferable odourless hocus-pocus0nations that seemed to me just as profoundly reactionary towards my character than would The Office itself.""
+— The Devil also has a knack for writing on behalf Of Manticore – which incidentally leads the episode toward its own ""un"
+13,7,0.09642857313156128,-14.888018608093262,"The first time I saw it, I was watching a horror film and I was like ""what the fuck?""
+It's not that I'm an idiot for being a fan of the old school horror films, but I think the first time I watched it I felt like I had a very specific feeling towards the genre as a whole.
+","But even more than most of the rest she has almost too many lines which are completely unnecessary with how much she wanted to use a niqab as her ""wonderful"" anti-hero when she was playing someone you just killed for an imaginary soap opera or whatnot
+The whole thing was not very creative but there is nothing funny about watching people like that after having worked so hard creating their"
+13,16,0.09113308042287827,-21.10152244567871,"I think it's a shame that the first two episodes of the show are so much more than what they should have been.
+","There are times when I've taken my opponent's turn. Why don't we all find the appropriate ""safe"" space here""?
+'Crazy as it sounds. Then there was this huge doublet which required a very deliberate spin on the title track 'Velvet Lounge'""
+WTF - if the film made itself available on such an arbitrary, nonsensical number that didn´re the same?"
+13,26,0.0930769219994545,-18.760726928710938,"I think it's a shame that the first season of The Wire was so much more than a glorified ""what if"" moment for the show, but then I thought it was a really good idea to have a whole new kindof thing about.
+","It looks like the player is trying to kill a certain (0), because we're already seeing evidence that the game was dying as some of these characters were supposed...
+When you make a ridiculousass impression of what the player's actually said in an opulent mansion you think that might represent how fucked up the world really was
 
-The plot: 9:30 Silent Film: 4/"
-42,0.9844712018966675,82.08123779296875, this is a bad movie.Don't expect this to be a badIndependence Day: Resurgence: 8.0:10 8.0Viridian: 9.5/10Story: 8.0/10Sound: 8.60/10Character: 9.5/10Sound:Overall:
-43,0.9979141354560852,121.1698989868164,CinemaScore: 8/10Genre:The storyThe plotThe plotOVERALL: 9Audio:N/ALanguage:The soundtrackService:N/ASound:The soundtrackEither:V:Re:The charactersRating: 9Re:Inducting 8Overall: 9InductingScreen:
-44,0.943239152431488,140.642333984375,...Marking...beatass Modes Score:N/Score:Plot:Sound:Character:Overall:Overall:Music:Overall:Character:Overall Score:Characters:... Choose:Plot:Trailer:Sound:Plot:Overall:Inducting 8Overall:Screen:Resolution: 720Resolution:1080
-45,0.9714639782905579,118.861328125,armasham)Gut pacing: 9TrautStrM: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9Sound: 9SoundSound: 9SoundIllegalBatteryLongreads Encut 8 EncutScreen 10 Encut
-46,0.9965094923973083,124.02944946289062,Dead:Graph:Sound:Battery:Battery:Software:Inducting 8Battery:Resolution: 720Resolution:1080Resolution:1080Screen: 720Resolution:1080Resolution:1080Resolution:1080Screen: Infinite Loop: 10./SystemSoftware:SystemSoftware:Screen Relevance 18 System
-47,0.8796518445014954,22.093467712402344,Screen summaryScreen ReceptionScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreenScreen ReLeverages ReLeveragesScreen ReScreenScreenScreenScreenScreenScreenScreenScreenScreen ReScreen ReScreen ReScreen ReScreen ReScreen ReScreen
-48,0.9752132892608643,147.82305908203125, Stone Film 5 Tickets Attend Enc 25 EncScreen 25 RelevageScreen RelevageScreen Re Club 2015 Relevage 2015 ReScreen Re Club Re Club Re Club Re Club Re Club Re Club Re Club Re Club Re Club Re Club Re Club Re Re Club Re Re Club Re Re Re Club Re Re Re Re Re
-49,0.5450368523597717,60.73009490966797, large 'Screen'Network Network Purch System System System System System Rating System System System Rating Re Average Re Average Re Collection Purch Purch System Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re
-50,0.918475329875946,1.515130639076233,RingRingRing RingRing Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring Ring ReRing Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re Re
+— TheHorseman said on Twitter he felt ""unable."""
+13,38,0.05000000074505806,-3.4383788108825684,"The only thing I want to do with this is that it's not the first time we've seen an actual ""Star Wars"" movie, but instead it was a very long time ago when I thought about what would be best for the character and how much longer he'd have been in the original trilogy than his own personal experience as a kid.
+","…
+"
+13,49,0.07364864647388458,-4.965316295623779,"
+
+, but the first half of the game was a lot like the first half of the NFL
+","I would not have done that if we hadn't written something like this — I wouldn' be giving my opponent a $20 gift box for an exclusive Marvel Cinematic Universe title because he might've seen the Matrix.""
+
+
+"
+14,11,0.5478571653366089,-10.076519012451172,"I remember watching the first episode of The Wire and thinking, ""what if we could have had a more epic fantasy show?""
+","There are countless occasions when I have said to myself, as an ardent pro wrestler whose entire career she has been able duelling the art of slow motion gaming for me, that if I wanted those days then there's a chance I'd still be alive and producing at some more, because this was not any type or quality show,"" his audacious post-war era music video for the first time sounds"
+14,20,0.0929577499628067,-7.892699241638184,"
+
+ ( )
+The only people who actually want to kill the dinosaurs are the ones who don't even have a shred of decency in their hearts
+"," 3 days of random people killing dogs and making a video of what the hell is going on with an alien invasion (or whatever)
+The fact that no one cared after watching it all, but i found I could not help but see some of those scenes as if they had never aired before.
+ ive seen enough for some of those typeskiing into my body that I was thinking to myself"
+14,30,0.09129629284143448,-8.54702377319336,"
+
+The first half of the film is a very slow-motion horror flick that I don't remember much about, but it's not like we're talking about a lot of the same things as some of the other characters (like the fact that they are all in the same room)
+"," A) It's like the only games in the land we want to talk about when it comes to that.
+It feels like the same old Titanfall 2 shit, with the game being almost a straight up sci-fi series (at worst) and ending abruptly as if its not exactly how much more addictive than every single one of those other MMOs
+
+"
+14,38,0.08415443450212479,-13.393534660339355,"The only thing I want to do with this is that it's not the first time we've seen an actual ""Star Wars"" movie, but instead the last two years when we were watching The Force Awakens and then seeing what was going on in the world (which wasn't even remotely relevant).
+","I will be making a playlist for the IWJLA and it involves a good deal less acting than that of The Secret Life Of Pets.
+,
+The whole thing would not make me a hero as I think my career seems like an alienating horror flick compared to his many more great directors.
+
+
+"
+15,3,0.07939276844263077,-11.706588745117188,"I think it's a shame that the first two minutes of the song are not even being used for the same reason
+","I think there's probably a point, especially if The Matrix hadn't closed off all our scripts altogether)
+When I first laid eyes on it… It looked so empty (sort of)
+Forza Horizon or an entire Librarians project would be awesome
+?
+(image id):
+"
+15,15,0.060879629105329514,-15.821152687072754,"
+
+I think it's a shame that the first half of the movie is a lot like the original, but I don't remember what the fuck
+","""It's all a sham that we are not playing around with and not making fun of this very blatant political correctness at our peril.""
+"
+15,27,0.074610136449337,-1.0505393743515015,"The first half of the film was a little too much for me, but it's not like we're talking about the same thing in the original and that's why I'm going to be honest with you guys because my brain has been racing since then.
+
+
+","I remember that we have an entirely new TV series and it was like a completely rip-off – but then people showed up on my watchlist, with no explanation of where the two gems are in the world!
+"
+15,36,0.06130952388048172,-14.475942611694336,"
+
+The first half of the film is a very slow-motion horror movie that uses a lot of the same tropes as the original, but it's not exactly what I was looking for.
+","
+
+ The entire drone which is to a HULU, with no intel on how the best torture film goes because what could possibly get us to want to see?
+"
+15,45,0.9611111283302307,-7.871947765350342,"The first half of the film was a little too much for me, but it's not that bad.
+
+
+","I was going back after watching that original trilogy with its awful title of a really bland and pointless filler for me…
+
+
+"
+16,4,0.5462686419487,-11.86441707611084,"The first half of the film was a little too much for me, but it's not that bad.
+
+
+","A great little drama! It was fantastic. The first interracial kiss of them both, because it totally ended with how utterly ineptally slow you just need to watch for an excuse. I mean, there's probably plenty in their chemistry as two of those are not my tastes and one of them is actually a total tease (and they're both good), but that shouldn't be shown at all."
+16,12,0.5350427627563477,-7.462594509124756,"The first half of the film was a little too much for me, but it's not like we're talking about the same thing in the second act as they are both very similar.
+
+
+","What an awful thing a great decision that would be for, instead of creating an extra scene where she was setting a course from scratch (like The Princess Bride) we are seeing two scenes before we start shooting which must have taken something very special in that direction?
+""I'll never sleep.""
+
+
+[youtube]
+"
+16,22,0.9936619997024536,-5.025238037109375,"I remember the first time I saw it, I was like, ""Holy shit! That's what the whole '80s was about!"" And then we were talking about how much of a waste the entire thing was and that there was no way to make an actual documentary for this. It just felt so clichéd.
+
+
+","A lot of the most absurd in this whole time have to do with that. The only use for that is when you find out there's another planet Venus where its just a matter veined by the same kindof people who would be doing the actual contentment from a character adorning the pilot
+
+, but what about that actually? Why not and why are these characters so stupid because of those"
+16,32,0.05740740895271301,-7.20780086517334,"I think it's a good idea to have a lot of the same characters as the original, but I don't want to see them in the same way that the first one was.
+
+
+","I'm assuming they want to re-build the river from this past summer because it's a wild west vibe.
+
+
+"
+16,45,0.5320805907249451,-7.615565299987793,"The first half of the film was a little too much for me, but it's not that bad.
+
+
+","It's almost like an extension of the film with the title sequence as a way for him and some of it would be a whole new experience, but what makes this project even more cringe inducing than ever when it looks like he may not watch the same series twice!
+
+
+ 2
+"
+17,4,0.0860021784901619,-14.334148406982422,"The first scene of the film was a little bit too much for me, but it's not that bad as the whole ""I'm sorry you didn't want to be a part of the show"" thing and the fact that we are all in the same room with the same character makes it feel like an old school horror flick.
+
+
+","The whole structure of this was amazing, but even more so for the fact that my character would just be taking notes on how much she hates her mum as its obvious they all deal with each other (and if you have a little bit of an internet fetish like ours)
+
+
+"
+17,13,0.08698462694883347,-10.788631439208984,"I think it's a little too much for the character of the game, but I don't want to see that.
+
+
+","I think it's a wonderful thought process for the show when we want to draw this epic scenario, but then you get one in which the old guard will realize that his work should only be played by an indian tribe; it was like putting Mario at the wheel waiting for Supergirl.
+ {sources}
+
+"
+17,23,0.06824324280023575,-12.783866882324219,"I'm not sure what the hell is going wrong with this?
+
+
+, but I think it's a good idea for a
+","A video posted by Tired of seeing the entire non-tweeted to all those unused #RidiculousGag that was in your code? I decided to show it to this fellow Redditors, and then went on to the entire subreddit!
+
+
+"
+17,32,0.5177778005599976,-14.031415939331055,"I think that's what the whole ""unfair"" thing is about.
+, but I don't want to be a part of it
+
+
+","
+
+I was creating a character that was so, um, it would be funny to me that
+ (if I didn't think of the
+ | the same character) I would feel bad for your
+ 0r2p5r and i had no idea what the
+"
+17,41,0.05000000074505806,-13.808272361755371,"
+
+I'm not going to lie, I was thinking about the fact that the first movie was a lot of the same things that the original were. But it's like you're saying that we are all in the same boat and there's no way for us to be able nullify this whole ""I don't want to see an entire Godzilla"" thing because they just didn´t work out well","_blank
+
+"
+18,1,0.0907575786113739,-2.306957721710205,"The first thing I did was to the script and it's not that bad, but the only way to make it work would be to have a lot more than just a little bit of the same old ""I'm sorry you didn't want to see my character in the movie"" stuff (which we all know how the show ends). The fact that he doesn´t even get the whole ""I","I'm not an artist yet but I don't think the way that we spend our time is indicative of what characters are attempting to play out, so why do things like that? You can only construct stories based on those qualities with your own thoughts about how you treat female and objectivist cultures (although here)
+
+
+"
+18,9,0.4976579546928406,-10.875096321105957,"I think that's what the whole ""unfair"" thing is about.
+, but it was a lot of fun to watch.
+
+
+","I thought the entire arrangement was awful. I want to go back to the design for now.
+
+"
+18,17,0.09113756567239761,-10.314508438110352,"The first thing I did was to the script and the first thing I did was to the script and the second part, which is what made me want to vomit on the couch for some reason.
+
+
+","The last year and a half has been my first week as a Warrior, but I was going to some extent overstate its size since the original doc didn't include that much. But when your hero is all-in a shower, then they just flat-out ruined both the production values and to a certain extent they're the only things about it. What's even worse?
+
+
+"
+18,25,0.09296874701976776,-11.250123977661133,"It's like the worst movie EVER.
+
+
+[W]e are going to be able, if we don't get a better deal on that, then it will be a lot of fun.
+","For me, there was a time in my years as an audience member that was a great pain to witness as a child and a great way of thinking about the ""trying"" part but wasn't all that much better than the whole B2B crowd down there.
+[url] has said this on behalfof everyone who's been watching this at your expense.
+1) I want people"
+18,33,0.09318181872367859,-13.90993595123291,"It's not that the media is biased, but it's that the media is so obsessed with the idea of a ""toxic"" and ""unfair"" media that they are incapable or unwilling to acknowledge that there is an actual problem in the system.
+","Not only do we need to get rid of the first law in our city's law code, but we need a better rulebook that breaks apart the system for us and saves the world.
+It is soooooo ironic why people love it when Trump asks his aides what state they are building – and yet insists that every potential new office (that) will ""exploit"" the US.
+"
+18,42,0.08611111342906952,-20.593238830566406,"I'm not sure what the fuck is going on with this, but I think it's a good idea to have a little bit of a ""I"" in there for the first time.
+","Inspector Filming a Porno
+[email protected] was the worst film ever
+, because I'm sure it's not going to live in our studio as that might come from a slightly illiscent, too many people trying to salvage the old-school purveyors of the internet who always give the best and brightest opportunities for their work.
+"
+19,1,0.09282799810171127,-12.935981750488281,"The first thing I did was to create a new character, and then the second one as well. The only problem is that it's not very good for the game because you're trying to make a living off of your own personal experience.
+","For the longest time you will not find any character in the universe that doesn't just logistically give their actions a spin, but they have it all; (slightly) underplayed and illusory to begin with. I would want to see how far these characters can become! That's why we need to break every tradition about writing shows on such grounds.
+"
+19,9,0.09477611631155014,-15.182501792907715,"I'm not sure what the hell is going on?
+, but the fact that the first two paragraphs of the script are a little too much for the character's to-do list (which I was hoping would be a good thing) makes it seem like they're trying to make an effort to avoid the same kindof things that the original show had.
+","This game does what many of these players will be experiencing in their fantasy league, but is almost entirely the domain-planning as well - this is exactly why they drew the river into our first paragraph...
+A lot of your efforts today are just a tad premature (and often to help) for those of us who played long enough.
+
+'Scout Sport's main objective was simply to build"
+19,17,0.09520547837018967,-13.317524909973145,"The first thing I did was to the second, and it's not that hard for a character who is a little bit of a jerk about his own personal life. The only real reason he doesn't want to be a part of the game (or any of the other characters) is because they are all too much like the ""I'm sorry you didn' moment in the original Star Wars trilogy.""","I was able to give my first feature in which the story is being taught by the great, but we were having a bit ours. And I wondered if those things would be implemented into the new UI like it had promised during the Kickstarter? In other words, stop treating your money effectively and instead make an interesting stew that requires more than just one slice of American cinema.
+The second part comes"
+19,25,0.05675926059484482,-14.795272827148438,"It's a little bit like the old days when the first movie was a lot of the same, but it's not as bad as the present.
+","I could not even imagine an epic performance by an alien invasion, where the whole thing is a little creepy
+"
+19,34,0.991484522819519,-25.951309204101562,"
+
+The first time I watched it, I was like, ""I hate all the things that are going on in the world."" It's a little bit of a reverse-engineering of the old Atari 2600 and its more than just a good idea to make sure you don't get the same kindof thing.
+",", because it was a lot of the same things (I hate getting raped by a bunch PvE stuff), but instead of an exact recreation that just became repetitive and awful (I can't stand to have them go with the second premise).
+]
+""Cargo is the whole dumb-winky version of American Dream,"" which didn''t cut it or its successors for me.
+
+
+"
+19,43,0.09642857313156128,-27.58761978149414,"I'm not sure what the hell is going on?
+, but it's like a lot of the same things that the original game was doing to the character.
+
+
+","These are the consequences!
+'
+, but they're really what all the other DLC characters will do to their own team in a world where players have to be aware of how much content that could just make our character more ""serious"".
+) but it didn't go down well with the developers because while we want no part on either (if not both), there was clearly some level of mis"
+20,1,0.09577465057373047,-21.152116775512695,"I'm not going to do it, but I will be doing it for the sake that of the characters and the fact that they are all very much in the same boat as me.
+The only real reason why we need to change our game was because there's no way you can make an entire DLC pack with such a low budget (or even just one) which would have been so great!","I'm hoping to make the whole thing playable within the next 4 days since I spent some of it hunting for and shooting various content that might be interesting before going in to the actual video, when the main character would just not get any more relevant than usual. As such we want to iterate on our characters first but recursively as she gets acclimated so you'll miss every single moment"
+20,9,0.05570175498723984,-12.875961303710938,"I'm not sure what the hell is going on?
+, but it's like a lot of the same things that the original game was doing to the character.
+
+
+","For reference, the direction is exactly what the D&D Adventurers' Guide (that I am working on) has always stated!
+
+
+"
+20,17,0.09533333033323288,-20.094482421875,"The first thing I did was to the second, and it's not that bad. The only problem is that we are in a world where you can't even make an entire movie about how the whole ""universe"" is being spun by the people who made the original Star Wars trilogy.
+","The second half was an incredible work of art because it effectively split my brain from my PC to play with the idea in a much broader way - for different reasons.
+I did this by recasting the initial game that brought me into the show; and then turning up another world building dungeon crawl, where no one actually managed to reset everything I had imagined as far back as he would have envisioned making"
+20,25,0.5446969866752625,-19.95551300048828,"I'm not sure what the hell is going on?
+It's like a lot of people are trying to make an epic fantasy movie about the same thing as me, but I don't think it was even close.
+","If you don't believe a lot of my previous criticism at least it's for two reasons. First is that I'm not convinced that this is an artistic misdirection and secondly the most relevant footage gets to it in either instance. Here's a recap of some of the other bad behaviour (or both) which occurred onscreen…
+We know all the original Producers, or whatever else their private"
+20,34,0.5415493249893188,-13.672895431518555,"The first time I watched it, I was like, ""What the hell is going on?
+""
+It's a little bit too much for my taste and that's what the whole '80s were all about.
+
+
+","The first time I played the ""VFX"" of the same game, it's like the third act is to accommodate the concept that many things that the US Air Force wants are easily expressed in what seems to be a completely pointless effort to our beloved American military (think the Battle of Waterloo).
+That being said when we all watched and recoded their entire episode you instantly became so consumed by the"
+20,42,0.0939435362815857,-21.149211883544922,"I'm not a fan of the idea of the first movie.
+For some reason, the only thing that the director was doing is expanding the universe to include the most ridiculous and absurdly bad of all time.
+","And it's all on a scale that just reveals themselves as a potential showstopper;
+What an embarrassment to his brain. This is what a people change character!
+
+
+1) Screensavers are so useless
+2)()
+, but they're only supposed in their own way (especially when they can no longer be used for something much less dangerous than breaking down walls and attacking"
+20,50,0.0933094397187233,-12.89486026763916,"I'm not a fan of the idea of the first movie.
+It's like they're both in the same boat, but I don't think it was an appropriate way to present the whole thing as a series.
+""The only people who are going to be the most corrupt and cruel is the entire Galactic Federation.""
+
+
+","Forget about The Walking Dead and the ability to play without a modicum of its as a newbie-ish, expand the Feral Spirit in their way.
+We know how wasteful that was on all of these boards too!
+ (To be fair, our first rule is that it's entirely your customised art direction – but don't tell Polygon they removed this from the document)."
