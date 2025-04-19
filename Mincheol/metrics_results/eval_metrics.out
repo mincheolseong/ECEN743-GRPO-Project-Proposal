@@ -1,2 +1,2 @@
 >>> Using device: cuda
-Evaluation complete. Metrics saved to 'ppo_logs/eval_metrics_summary.txt' and reward progression plotted to 'ppo_logs/reward_progression.png'.
+Evaluation complete.
