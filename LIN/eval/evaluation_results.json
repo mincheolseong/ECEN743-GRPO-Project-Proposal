@@ -1,0 +1,7 @@
+{
+  "fine_tuned_perplexity": 118.16162998199462,
+  "baseline_perplexity": 109.7356202507019,
+  "win_rate": 0.45,
+  "sentiment_accuracy": 0.47,
+  "distinct_1": 0.13542168674698796
+}
