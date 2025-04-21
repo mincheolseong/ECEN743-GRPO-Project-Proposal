@@ -1,17 +1,19 @@
 name: Tests
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    paths:
+  workflow_dispatch:
+
+#  push:
+#    branches: [ main ]
+#  pull_request:
+  #  paths:
       # Run only when relevant files are modified
-      - ".github/**.yml"
-      - "examples/**.py"
-      - "scripts/**.py"
-      - "tests/**.py"
-      - "trl/**.py"
-      - "setup.py"
+    #  - ".github/**.yml"
+     # - "examples/**.py"
+    #  - "scripts/**.py"
+     # - "tests/**.py"
+      #- "trl/**.py"
+     # - "setup.py"
 
 env:
   TQDM_DISABLE: 1
